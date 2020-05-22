@@ -4,11 +4,14 @@
 
 > Introdução sobre a sessão
 
-___
-## 1 Título do assunto
+---
+
+## Título do assunto
+
 > Introdução sobre o assunto
 
-___
+---
+
 <div align="center" id="footer" >
 © 2020 <br>
 With ❤️ and ☕ by <br>
